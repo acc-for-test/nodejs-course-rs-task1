@@ -4,6 +4,7 @@
   "description": "**Implements CLI tool that will encode and decode a text by [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)**.",
   "main": "index.js",
   "dependencies": {
+    "commander": "^6.1.0",
     "process": "^0.11.10"
   },
   "devDependencies": {},
