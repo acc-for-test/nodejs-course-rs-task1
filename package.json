@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-course-rs-task1",
+  "version": "1.0.0",
+  "description": "**Implements CLI tool that will encode and decode a text by [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)**.",
+  "main": "index.js",
+  "dependencies": {
+    "process": "^0.11.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexvjsfed/nodejs-course-rs-task1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexvjsfed/nodejs-course-rs-task1/issues"
+  },
+  "homepage": "https://github.com/alexvjsfed/nodejs-course-rs-task1#readme"
+}
